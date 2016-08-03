@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T19:39:13.739Z'
+datePublished: '2016-08-03T19:39:13.785Z'
 sourcePath: _posts/2016-04-16-drinks-smoked-manhattan.md
 inFeed: true
 isBasedOnUrl: 'http://wildernesscollective.com/drinks-smoked-manhattan/'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-03T19:39:11.466Z'
+dateModified: '2016-08-03T19:39:12.138Z'
 title: 'Drinks: Smoked Manhattan'
 app_links: []
 publisher:
