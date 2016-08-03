@@ -1,4 +1,3 @@
-layout_spectrum: 0.6557446229271591
 typography_spectrum: 0.8426600126549602
 color:
   brandStrength: 0.18455105694010854
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.6557446229271591
 name: An.Ka
 title: Andac Karabeyoglu
+description: Cinematographer
